@@ -1,8 +1,8 @@
 {
     "info": {
         "location": {
-            "lat": "50.13463001112983",
-            "long": "14.39507261808848"
+            "lat": "your_lat_float",
+            "long": "your_long_float"
         },
         "timezone": "Europe%2FBerlin",
         "idealtemperature": "20"
